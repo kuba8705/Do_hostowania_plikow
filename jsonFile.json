@@ -1,5 +1,4 @@
-{
-    "filmy": [
+[
         {
             "ID": "1",
             "Tytul": "John",
@@ -161,4 +160,3 @@
             "Zdjecia": "Adam Nowak"
         }
     ]
-}
