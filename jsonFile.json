@@ -1,162 +1,174 @@
 [
         {
             "ID": "1",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "Jurassic Park",
+            "url_obrazka": "https://ecsmedia.pl/cdn-cgi/image/format=webp,width=544,height=544,/c/jurassic-park-plakat-filmowy-61x91-5-cm-b-iext65828695.jpg",
+            "Premiera": "2012-06-09",
+            "Rezyser": "Steven Spielberg",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Sam Neill",
+                "Laura Dern",
+                "Jeff Goldblum",
+                "Richard Attenborough",
+                "Bob Peck",
+                "Martin Ferrero"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Universal",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Jakub Popielecki"
         },
         {
             "ID": "2",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "MARSJANIN",
+            "url_obrazka": "https://fwcdn.pl/fpo/55/33/715533/7722529.6.jpg",
+            "Premiera": "2015-09-11",
+            "Rezyser": "Ridley Scott",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Matt Damon",
+                "Jessica Chastain",
+                "Kristen Wiig",
+                "Jeff Daniels"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Paramount",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Andy Weir"
         },
         {
             "ID": "3",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "BLADE RUNNER 2049",
+            "url_obrazka": "https://fwcdn.pl/fpo/07/98/630798/7801880.6.jpg",
+            "Premiera": "2017-04-03",
+            "Rezyser": "Denis Villeneuve",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Ryan Gosling",
+                "Harrison Ford",
+                "Ana de Armas",
+                "Sylvia Hoeks"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Warner Bros",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Benjamin Wallfisch"
         },
         {
             "ID": "4",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "UNDERWORLD",
+            "url_obrazka": "https://fwcdn.pl/fpo/85/75/38575/7528752.6.jpg",
+            "Premiera": "2003-04-08",
+            "Rezyser": "Len Wiseman",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Kate Beckinsale",
+                "Scott Speedman",
+                "Michael Sheen",
+                "Shane Brolly"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Disney",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Kevin Grevioux"
         },
         {
             "ID": "5",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "REQUIEM DLA SNU",
+            "url_obrazka": "https://fwcdn.pl/fpo/91/36/9136/6908595.6.jpg",
+            "Premiera": "2001-04-14",
+            "Rezyser": "Darren Aronofsky",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Dagfinnr Beāte",
+                "Eva Jeremy",
+                "Cintia Salisu",
+                "Indrajit Mattan"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Sony",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Aysha Jozef"
         },
         {
             "ID": "6",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "SHREK",
+            "url_obrazka": "https://fwcdn.pl/fpo/95/09/9509/7640796.6.jpg",
+            "Premiera": "2001-04-21",
+            "Rezyser": "Andrew Adamson",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Samir Enitan",
+                "Mwayi Rodya"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Universal",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Ismael Rosangela"
         },
         {
             "ID": "7",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "WSZYSTKO ZA ŻYCIE",
+            "url_obrazka": "https://fwcdn.pl/fpo/78/29/297829/7187777.6.jpg",
+            "Premiera": "2002-06-11",
+            "Rezyser": "David Rutendo",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Patrício Elizabete",
+                "Yuri Nora"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Sony",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Violetta Isi"
         },
         {
             "ID": "8",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "EPOKA LODOWCOWA",
+            "url_obrazka": "https://fwcdn.pl/fpo/20/14/32014/7048673.6.jpg",
+            "Premiera": "2013-01-01",
+            "Rezyser": "Osgar Thecla",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Nicolae Radhika",
+                "Tonka Pàl"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Sony",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Ally Bel"
         },
         {
             "ID": "9",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
+            "Tytul": "FILADELFIA",
+            "url_obrazka": "https://fwcdn.pl/fpo/12/22/1222/8022447.6.jpg",
+            "Premiera": "2010-02-22",
             "Rezyser": "Jakis tam",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Pepin Helmut",
+                "Renza Zusman"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Sony",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Zaheer Gulbrandr"
         },
         {
             "ID": "10",
-            "Tytul": "John",
-            "url_obrazka": "https://www.pro-vent.pl/wp-content/uploads/2019/11/referencje-blachmet.jpg",
-            "Premiera": "2012-04-21",
-            "Rezyser": "Jakis tam",
+            "Tytul": "HOOLIGANS",
+            "url_obrazka": "https://fwcdn.pl/fpo/41/19/124119/7521205.6.jpg",
+            "Premiera": "2007-07-07",
+            "Rezyser": "Zaheer Gulbrandr",
             "Aktorzy": [
-                "Jan W",
-                "ASAS asda"
+                "Ismoil Simba",
+                "Memphis Maisie"
             ],
             "Produkcja": {
-                "Studio": "asd",
-                "Kraj": "Jakis_tam"
+                "Studio": "Disney",
+                "Kraj": "USA"
             },
-            "Zdjecia": "Adam Nowak"
+            "Zdjecia": "Elsdon Aiko"
         }
     ]
